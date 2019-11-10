@@ -92,6 +92,9 @@ body {
     top: 0;
     border-radius: 50%;
 }
+.button-play:hover:after {
+    background: url(./img/play.svg) center no-repeat;
+}
 .button-play:before {
     content: "";
     width: 81px;
